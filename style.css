@@ -1,6 +1,7 @@
 body {
-  font-family: 'Poppins';
+  font-family: Arial, sans-serif;
 }
+
 header > div {
   padding: 0 25px;
   display: flex;
